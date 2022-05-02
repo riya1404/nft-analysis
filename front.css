@@ -1,0 +1,311 @@
+
+@import url("https://fonts.googleapis.com/css?family=Inter:600|Neucha:400");
+
+.frame-5 {
+    align-items: flex-start;
+    background-image: url();
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    height: 736px;
+    padding: 28px 149px;
+    width: 1440px;
+}
+
+.frame-6 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    padding: 0 10.8px;
+    width: 280px;
+}
+
+.nftlogo-1 {
+    width: 275px;  
+    height: 200px;
+    margin-left: 840px;
+}
+
+.frame-12 {
+    align-items: center;
+    display: flex;
+    height: 246px;
+    margin-top: 87px;
+    padding: 0 33px;
+    width: 1141px;
+    color:white;
+    margin-left: 500px;
+}
+
+.i-think-this-curren {
+    color: var(--white);
+    font-family: var(--font-family-neucha);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 35.4px;
+    min-height: 210px;
+    text-align: center;
+    width: 1075px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Inter:600|Neucha:400");
+
+.frame-13 {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    height: 664px;
+    padding: 150px 120.3px;
+    width: 1440px;
+}
+
+.group {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 122px;
+    min-height: 260px;
+    width: 200px;
+}
+
+.frame-3 {
+    align-items: flex-start;
+    background-color: rgba(64, 41, 128, 1);
+    border-radius: 9px;
+    box-shadow: 4px 4px 4px #070212e0;
+    display: flex;
+    height: 75px;
+    margin-top: 47px;
+    overflow: hidden;
+    padding: 19px 8.8px;
+    width: 200px;
+    font-family: aerial;
+    font-size:40px ;
+    text-align:middle;
+    
+    color:rgba(255, 255, 255, 1);
+}
+
+.ananlysis {
+    height: 36px;
+    letter-spacing: 0;
+    text-align:center;
+    font-family: aerial;
+    font-size:20px ;
+    margin-left:50px;
+    color:rgba(255, 255, 255, 1);
+    width: 182px;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.overlap-group1 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625a5349670b0b62486d778f/releases/625a5358b17022102d2ec7f6/img/ellipse-3@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 138px;
+    margin-left: 0.43px;
+    min-width: 138px;
+    padding: 30px 34px;
+}
+
+.carbontext-link-analysis {
+    align-items: flex-start;
+    display: flex;
+    height: 70px;
+    padding: 3.8px 4px;
+    width: 70px;
+}
+
+.vector-container {
+    height: 61px;
+    position: relative;
+    width: 61px;
+}
+
+.vector-4 {
+    height: 61px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 61px;
+}
+
+.vector-3 {
+    height: 22px;
+    left: 13px;
+    position: absolute;
+    top: 0;
+    width: 26px;
+}
+
+.group-3 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 34px;
+    min-height: 260px;
+    width: 200px;
+}
+
+.overlap-group {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625a5349670b0b62486d778f/releases/625a5358b17022102d2ec7f6/img/ellipse-1@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 138px;
+    margin-right: 0;
+    min-width: 138px;
+    padding: 30px 34px;
+}
+
+.emojione-monotonequestion-mark {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    padding: 1.6px 13px;
+    width: 70px;
+}
+
+.vector {
+    height: 47px;
+    width: 44px;
+}
+
+.vector-1 {
+    align-self: flex-end;
+    height: 14px;
+    margin-right: 16.84px;
+    margin-top: 5px;
+    width: 14px;
+}
+
+.frame-1 {
+    align-items: flex-start;
+    background-color: rgba(64, 41, 128, 1);
+    border-radius: 9px;
+    box-shadow: 4px 4px 4px #070212e0;
+    display: flex;
+    height: 75px;
+    margin-top: 47px;
+    overflow: hidden;
+    padding: 19px 9px;
+    width: 200px;
+    font-family: aerial;
+    font-size:40px ;
+    text-align:middle;
+    color:rgba(255, 255, 255, 1)
+}
+
+.info {
+    height: 36px;
+    letter-spacing: 0;
+    text-align: center;
+    width: 182px;
+}
+
+.frame-2 {
+    align-items: flex-start;
+    background-color: rgba(64, 41, 128, 1);
+    border-radius: 9px;
+    box-shadow: 4px 4px 4px #060112e0;
+    display: flex;
+    height: 75px;
+    margin-top: 47px;
+    overflow: hidden;
+    padding: 19px 8.9px;
+    width: 200px;
+    font-family: aerial;
+    font-size:40px ;
+    text-align:middle;
+    color:rgba(255, 255, 255, 1)
+}
+
+.twitter {
+    height: 36px;
+    letter-spacing: 0;
+    text-align: center;
+    width: 182px;
+}
+
+.overlap-group-1 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625a5349670b0b62486d778f/releases/625a5358b17022102d2ec7f6/img/ellipse-2@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 138px;
+    margin-left: 0.21px;
+    min-width: 138px;
+    padding: 30px 34px;
+}
+
+.fa-brandstwitter {
+    align-items: flex-start;
+    display: flex;
+    height: 70px;
+    overflow: hidden;
+    padding: 6px 0;
+    width: 70px;
+}
+
+.vector-2 {
+    height: 57px;
+    width: 70px;
+}
+
+.frame-4 {
+    align-items: flex-start;
+    background-color: rgba(64, 41, 128, 1);
+    border-radius: 9px;
+    box-shadow: 4px 4px 4px #070212e0;
+    display: flex;
+    height: 75px;
+    margin-top: 47px;
+    overflow: hidden;
+    padding: 19px 8.7px;
+    width: 200px;
+    font-family: aerial;
+    font-size:40px ;
+    text-align:middle;
+    color:rgba(255, 255, 255, 1)
+}
+
+.feedback {
+    height: 36px;
+    letter-spacing: 0;
+    margin-left: 1px;
+    text-align: center;
+    width: 182px;
+}
+
+.overlap-group-2 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625a5349670b0b62486d778f/releases/625a5358b17022102d2ec7f6/img/ellipse-4@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 138px;
+    margin-left: 0.64px;
+    min-width: 138px;
+    padding: 30px 34px;
+}
+
+.fluentperson-feedback-24-filled {
+    align-items: flex-start;
+    display: flex;
+    height: 70px;
+    padding: 5.7px 4px;
+    width: 70px;
+}
+
+.vector-5 {
+    height: 58px;
+    width: 61px;
+}

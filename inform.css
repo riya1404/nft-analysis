@@ -1,0 +1,195 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,600");
+
+body {
+    background-image: url();
+    height: 100vh;
+    width: 100% ;
+    margin: 0;
+}
+.frame-6 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    padding: 0 10.8px;
+    width: 280px;
+}
+.frame-12 {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    margin-top: 87px;
+    padding: 0 33px;
+    width: 1141px;
+    color:black;
+    margin-left: 500px;
+}
+/* .desktop {
+    align-items: center;
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    height: 3703px;
+    height: 100%;
+    padding: 0px 0;
+    width: 1350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.frame-7 {
+    align-items: flex-end;
+    background-size: 100% 100%;
+    /* background-color:
+        #502f76; */
+    border-color:#502f76;
+    display: flex;
+    flex-direction: column;
+    height: 3360px;
+    padding: 50px 30px;
+    width: 1150px;
+    margin: 233px 145px 233px 145px;
+} 
+
+.first-para {
+    color:black;
+    font-family:aerial;
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 40.1px;
+    margin-right: 24px;
+    min-height: 320px;
+    width: 1055px;
+}
+.nftlogo-1 {
+    width: 275px;  
+    height: 200px;
+    margin-left: 50px;
+}
+
+/* .group-1 {
+     background-size:auto; 
+    background-color:
+        #502f76;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    min-height: 2677px;
+    width: 1086px;
+} */ 
+.group-1 {
+    border-color: #502f76;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    min-height: 2677px;
+    width: 1086px;
+}
+
+.ans5 {
+    letter-spacing: 0;
+    line-height: 31px;
+    margin-left: 5px;
+    margin-top: 47px;
+    min-height: 527px;
+    width: 1055px;
+}
+
+.que6 {
+    letter-spacing: 0;
+    line-height: 46.5px;
+    margin-left: 5px;
+    margin-top: 13px;
+    min-height: 46px;
+    white-space: nowrap;
+}
+
+.ans1 {
+    letter-spacing: 0;
+    line-height: 31px;
+    margin-left: 7px;
+    margin-top: 16px;
+    min-height: 155px;
+    width: 1055px;
+}
+
+.ans6 {
+    letter-spacing: 0;
+    line-height: 31px;
+    margin-left: 5px;
+    margin-top: 37px;
+    min-height: 279px;
+    width: 1055px;
+}
+
+.que3 {
+    letter-spacing: 0;
+    line-height: 46.5px;
+    margin-left: 5px;
+    margin-top: 15px;
+    min-height: 46px;
+    white-space: nowrap;
+}
+
+.ans2 {
+    letter-spacing: 0;
+    line-height: 31px;
+    margin-left: 5px;
+    margin-top: 26px;
+    min-height: 372px;
+    width: 1055px;
+}
+
+.que4 {
+    letter-spacing: 0;
+    line-height: 46.5px;
+    margin-left: 5px;
+    margin-top: 27px;
+    min-height: 46px;
+    white-space: nowrap;
+}
+
+.que2 {
+    letter-spacing: 0;
+    line-height: 46.5px;
+    margin-left: 7px;
+    margin-top: 45px;
+    min-height: 46px;
+    white-space: nowrap;
+}
+
+.que5 {
+    letter-spacing: 0;
+    line-height: 46.5px;
+    margin-top: 10px;
+    min-height: 46px;
+    white-space: nowrap;
+}
+
+.ans4 {
+    letter-spacing: 0;
+    line-height: 31px;
+    margin-top: 41px;
+    min-height: 496px;
+    width: 1055px;
+}
+
+.ans3 {
+    letter-spacing: 0;
+    line-height: 31px;
+    margin-left: 5px;
+    margin-top: 37px;
+    min-height: 248px;
+    width: 1055px;
+}
+
+.que1 {
+    letter-spacing: 0;
+    line-height: 46.5px;
+    margin-left: 7px;
+    min-height: 46px;
+    white-space: nowrap;
+}
